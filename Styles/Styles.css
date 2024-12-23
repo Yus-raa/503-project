@@ -1,0 +1,57 @@
+h1{
+	Text-align:center;
+	font-family:impact serif;
+
+  }
+h2{
+	Text-align:center;
+	font-family:impact serif;
+
+  }
+p{
+	Text-align:center;
+ }
+h1 {
+	font-size:40px;
+   }
+h2 {
+	font-size:30px;
+   }
+body{
+	background-image:url(C:/Users/PMLS/Desktop/Projects513/CafeMenu_Practical/images/img-3.jpg)
+	
+    }
+/* width can be given in 2 ways 1.% it is variable or 2.px(pixels) it is Fixed */
+.menu{
+	width:80%;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:burlywood;
+	color:black;
+	padding-left:20px;
+	padding-right:20px;
+	padding-top:20px;
+	padding-bottom:20px;
+	max-width:500px;
+	font-family:sans-serif;
+     }
+.flavor, .dessert{
+	text-align:center;
+	width:50%;
+       }
+.price{
+	text-align:center;
+	width:50%;
+       }
+.item p{
+	display:inline-block;
+	width:50%;
+       }
+.est {
+	font-style:italic;
+	}
+hr {
+	border-color:brown;
+	background-color:brown;
+	height:3px;
+   }
